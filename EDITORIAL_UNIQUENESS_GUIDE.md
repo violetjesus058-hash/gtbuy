@@ -1,8 +1,8 @@
-# Usfans Spreadsheet Editorial Uniqueness Guide
+# Gtbuy Spreadsheet Editorial Uniqueness Guide
 
 ## Purpose
 
-Every Usfans Spreadsheet page must offer a distinct reader purpose, search intent, and editorial angle. The site should not publish near-duplicate guides with swapped product names, recycled opening paragraphs, or generic image labels. This standard applies to all articles, category pages, landing pages, and future updates.
+Every Gtbuy Spreadsheet page must offer a distinct reader purpose, search intent, and editorial angle. The site should not publish near-duplicate guides with swapped product names, recycled opening paragraphs, or generic image labels. This standard applies to all articles, category pages, landing pages, and future updates.
 
 ## Page Brief Before Writing
 

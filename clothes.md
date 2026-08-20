@@ -1,10 +1,10 @@
 ---
-title: 'USFans Clothing Spreadsheet | Clothing Finds, Fits and Guides'
-description: 'Explore the USFans Clothing Spreadsheet for hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides. Compare focused USFans clothing finds by category.'
+title: 'Gtbuy Clothing Spreadsheet | Clothing Finds, Fits and Guides'
+description: 'Explore the Gtbuy Clothing Spreadsheet for hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides. Compare focused Gtbuy clothing finds by category.'
 category: Clothing
 tags:
-- USFans Clothing Spreadsheet
-- USFans Clothing Finds
+- Gtbuy Clothing Spreadsheet
+- Gtbuy Clothing Finds
 - Clothing Guides
 - Apparel Discovery
 updated: '2026-08-14T00:00:00Z'
@@ -162,9 +162,9 @@ const brandOverview = [
 ]
 </script>
 
-# USFans Clothing Spreadsheet
+# Gtbuy Clothing Spreadsheet
 
-The USFans Clothing Spreadsheet brings together clothing-focused guides for T-shirts, hoodies, shirts, jackets, dresses, layers and everyday wardrobe pieces. Start with the category that matches your intended use, then open the connected article card to compare fit, materials, care considerations and relevant USFans clothing finds.
+The Gtbuy Clothing Spreadsheet brings together clothing-focused guides for T-shirts, hoodies, shirts, jackets, dresses, layers and everyday wardrobe pieces. Start with the category that matches your intended use, then open the connected article card to compare fit, materials, care considerations and relevant Gtbuy clothing finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -303,11 +303,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [Usfans Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [Usfans T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [Usfans Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [Usfans QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Usfans Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
+- [Gtbuy Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [Gtbuy T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
+- [Gtbuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
+- [Gtbuy QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
+- [Gtbuy Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

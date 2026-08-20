@@ -314,7 +314,7 @@ function processArticle(filePath) {
 // Main execution
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('usfans-article-prompt') && !f.startsWith('usfans-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('gtbuy-article-prompt') && !f.startsWith('gtbuy-internal-link-rules'))
     .map(f => path.join(BLOG_DIR, f));
 
   console.log(`Processing ${files.length} articles...\n`);

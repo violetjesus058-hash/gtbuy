@@ -1,8 +1,8 @@
 ---
-title: Usfans Spreadsheet Internal Linking Rules
+title: Gtbuy Spreadsheet Internal Linking Rules
 ---
 
-> This document defines the internal linking structure for all 37 Usfans Spreadsheet articles.
+> This document defines the internal linking structure for all 37 Gtbuy Spreadsheet articles.
 > AI must follow these rules exactly when generating articles.
 
 ---
@@ -35,68 +35,68 @@ title: Usfans Spreadsheet Internal Linking Rules
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet sneakers | Usfans Spreadsheet nike | Usfans Spreadsheet jordan | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet nike | Usfans Spreadsheet jordan | sizing guide on Usfans Spreadsheet |
-| Usfans Spreadsheet hoodies | Usfans Spreadsheet chrome hearts | Usfans Spreadsheet essentials | Usfans Spreadsheet palm angels | Usfans Spreadsheet chrome hearts | Usfans Spreadsheet essentials | Usfans Spreadsheet palm angels |
-| Usfans Spreadsheet watches | Usfans Spreadsheet legit check | Usfans Spreadsheet luxury finds | Usfans Spreadsheet reviews | Usfans Spreadsheet legit check | Usfans Spreadsheet luxury finds | Usfans Spreadsheet reviews |
-| Usfans Spreadsheet bags | Usfans Spreadsheet accessories | Usfans Spreadsheet nike | Usfans Spreadsheet chrome hearts | Usfans Spreadsheet accessories | Usfans Spreadsheet nike | Usfans Spreadsheet chrome hearts |
-| Usfans Spreadsheet jeans | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet palm angels | Usfans Spreadsheet t-shirts | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet palm angels | Usfans Spreadsheet t-shirts |
-| Usfans Spreadsheet t-shirts | Usfans Spreadsheet stussy | Usfans Spreadsheet palm angels | Usfans Spreadsheet essentials | Usfans Spreadsheet stussy | Usfans Spreadsheet palm angels | Usfans Spreadsheet essentials |
-| Usfans Spreadsheet accessories | Usfans Spreadsheet bags | Usfans Spreadsheet nike | Usfans Spreadsheet budget picks | Usfans Spreadsheet bags | Usfans Spreadsheet nike | Usfans Spreadsheet budget picks |
+| Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet jordan | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet jordan | sizing guide on Gtbuy Spreadsheet |
+| Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet palm angels |
+| Gtbuy Spreadsheet watches | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet luxury finds | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet luxury finds | Gtbuy Spreadsheet reviews |
+| Gtbuy Spreadsheet bags | Gtbuy Spreadsheet accessories | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet accessories | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet chrome hearts |
+| Gtbuy Spreadsheet jeans | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet t-shirts | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet t-shirts |
+| Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet stussy | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet stussy | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet essentials |
+| Gtbuy Spreadsheet accessories | Gtbuy Spreadsheet bags | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet bags | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet budget picks |
 
 ### Brand Pages (7 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet nike | Usfans Spreadsheet sneakers | Usfans Spreadsheet t-shirts | Usfans Spreadsheet bags | Usfans Spreadsheet sneakers | Usfans Spreadsheet t-shirts | Usfans Spreadsheet bags |
-| Usfans Spreadsheet jordan | Usfans Spreadsheet sneakers | Usfans Spreadsheet nike | Usfans Spreadsheet qc photos | Usfans Spreadsheet sneakers | Usfans Spreadsheet nike | Usfans Spreadsheet qc photos |
-| Usfans Spreadsheet adidas | Usfans Spreadsheet sneakers | Usfans Spreadsheet t-shirts | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet sneakers | Usfans Spreadsheet t-shirts | sizing guide on Usfans Spreadsheet |
-| Usfans Spreadsheet chrome hearts | Usfans Spreadsheet hoodies | Usfans Spreadsheet luxury finds | Usfans Spreadsheet accessories | Usfans Spreadsheet hoodies | Usfans Spreadsheet luxury finds | Usfans Spreadsheet accessories |
-| Usfans Spreadsheet essentials | Usfans Spreadsheet hoodies | Usfans Spreadsheet t-shirts | Usfans Spreadsheet budget picks | Usfans Spreadsheet hoodies | Usfans Spreadsheet t-shirts | Usfans Spreadsheet budget picks |
-| Usfans Spreadsheet palm angels | Usfans Spreadsheet hoodies | Usfans Spreadsheet t-shirts | Usfans Spreadsheet jeans | Usfans Spreadsheet hoodies | Usfans Spreadsheet t-shirts | Usfans Spreadsheet jeans |
-| Usfans Spreadsheet stussy | Usfans Spreadsheet t-shirts | Usfans Spreadsheet hoodies | Usfans Spreadsheet accessories | Usfans Spreadsheet t-shirts | Usfans Spreadsheet hoodies | Usfans Spreadsheet accessories |
+| Gtbuy Spreadsheet nike | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet bags | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet bags |
+| Gtbuy Spreadsheet jordan | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet qc photos |
+| Gtbuy Spreadsheet adidas | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet t-shirts | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet t-shirts | sizing guide on Gtbuy Spreadsheet |
+| Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet luxury finds | Gtbuy Spreadsheet accessories | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet luxury finds | Gtbuy Spreadsheet accessories |
+| Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet budget picks |
+| Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet jeans | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet jeans |
+| Gtbuy Spreadsheet stussy | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet accessories | Gtbuy Spreadsheet t-shirts | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet accessories |
 
 ### Feature Pages (7 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet qc photos | Usfans Spreadsheet legit check | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet legit check | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best |
-| shipping guide on Usfans Spreadsheet | Usfans Spreadsheet how to use | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet how to use | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best |
-| sizing guide on Usfans Spreadsheet | Usfans Spreadsheet sneakers | Usfans Spreadsheet hoodies | Usfans Spreadsheet jeans | Usfans Spreadsheet sneakers | Usfans Spreadsheet hoodies | Usfans Spreadsheet jeans |
-| Usfans Spreadsheet reviews | Usfans Spreadsheet legit check | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet qc photos | Usfans Spreadsheet legit check | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet qc photos |
-| Usfans Spreadsheet legit check | Usfans Spreadsheet qc photos | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet qc photos | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best |
-| Usfans Spreadsheet coupon | Usfans Spreadsheet budget picks | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet essentials | Usfans Spreadsheet budget picks | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet essentials |
-| Usfans Spreadsheet how to use | shipping guide on Usfans Spreadsheet | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet for beginners | shipping guide on Usfans Spreadsheet | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet for beginners |
+| Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best |
+| shipping guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet how to use | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet how to use | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best |
+| sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet jeans | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet hoodies | Gtbuy Spreadsheet jeans |
+| Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet qc photos |
+| Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best |
+| Gtbuy Spreadsheet coupon | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet essentials |
+| Gtbuy Spreadsheet how to use | shipping guide on Gtbuy Spreadsheet | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet for beginners | shipping guide on Gtbuy Spreadsheet | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet for beginners |
 
 ### Comparison Pages (4 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet vs Usfans Spreadsheet | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative |
-| Usfans Spreadsheet vs oopbuy | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative |
-| Usfans Spreadsheet vs litbuy | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative |
-| Usfans Spreadsheet vs usfans | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet alternative |
+| Gtbuy Spreadsheet vs Gtbuy Spreadsheet | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative |
+| Gtbuy Spreadsheet vs oopbuy | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative |
+| Gtbuy Spreadsheet vs litbuy | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative |
+| Gtbuy Spreadsheet vs gtbuy | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet alternative |
 
 ### Scenario Pages (4 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet for beginners | Usfans Spreadsheet how to use | shipping guide on Usfans Spreadsheet | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet how to use | shipping guide on Usfans Spreadsheet | sizing guide on Usfans Spreadsheet |
-| Usfans Spreadsheet for resellers | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet budget picks | best sellers on Usfans Spreadsheet | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet budget picks | best sellers on Usfans Spreadsheet |
-| Usfans Spreadsheet budget picks | Usfans Spreadsheet coupon | Usfans Spreadsheet essentials | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet coupon | Usfans Spreadsheet essentials | Usfans Spreadsheet spreadsheet best |
-| Usfans Spreadsheet luxury finds | Usfans Spreadsheet chrome hearts | Usfans Spreadsheet watches | Usfans Spreadsheet palm angels | Usfans Spreadsheet chrome hearts | Usfans Spreadsheet watches | Usfans Spreadsheet palm angels |
+| Gtbuy Spreadsheet for beginners | Gtbuy Spreadsheet how to use | shipping guide on Gtbuy Spreadsheet | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet how to use | shipping guide on Gtbuy Spreadsheet | sizing guide on Gtbuy Spreadsheet |
+| Gtbuy Spreadsheet for resellers | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet budget picks | best sellers on Gtbuy Spreadsheet | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet budget picks | best sellers on Gtbuy Spreadsheet |
+| Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet coupon | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet coupon | Gtbuy Spreadsheet essentials | Gtbuy Spreadsheet spreadsheet best |
+| Gtbuy Spreadsheet luxury finds | Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet watches | Gtbuy Spreadsheet palm angels | Gtbuy Spreadsheet chrome hearts | Gtbuy Spreadsheet watches | Gtbuy Spreadsheet palm angels |
 
 ### Long-tail Pages (8 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Usfans Spreadsheet spreadsheet nike | Usfans Spreadsheet nike | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet sneakers | Usfans Spreadsheet nike | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet sneakers |
-| Usfans Spreadsheet spreadsheet jordan | Usfans Spreadsheet jordan | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet sneakers | Usfans Spreadsheet jordan | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet sneakers |
-| Usfans Spreadsheet spreadsheet shoes | Usfans Spreadsheet sneakers | Usfans Spreadsheet spreadsheet best | sizing guide on Usfans Spreadsheet | Usfans Spreadsheet sneakers | Usfans Spreadsheet spreadsheet best | sizing guide on Usfans Spreadsheet |
-| Usfans Spreadsheet telegram | Usfans Spreadsheet reddit | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reddit | Usfans Spreadsheet reviews | Usfans Spreadsheet spreadsheet best |
-| Usfans Spreadsheet reddit | Usfans Spreadsheet reviews | Usfans Spreadsheet telegram | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet reviews | Usfans Spreadsheet telegram | Usfans Spreadsheet spreadsheet best |
-| Usfans Spreadsheet alternative | Usfans Spreadsheet vs Usfans Spreadsheet | Usfans Spreadsheet vs oopbuy | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet vs Usfans Spreadsheet | Usfans Spreadsheet vs oopbuy | Usfans Spreadsheet spreadsheet best |
-| is Usfans Spreadsheet legit | Usfans Spreadsheet reviews | Usfans Spreadsheet legit check | Usfans Spreadsheet qc photos | Usfans Spreadsheet reviews | Usfans Spreadsheet legit check | Usfans Spreadsheet qc photos |
-| best sellers on Usfans Spreadsheet | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet budget picks | Usfans Spreadsheet nike | Usfans Spreadsheet spreadsheet best | Usfans Spreadsheet budget picks | Usfans Spreadsheet nike |
+| Gtbuy Spreadsheet spreadsheet nike | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet sneakers |
+| Gtbuy Spreadsheet spreadsheet jordan | Gtbuy Spreadsheet jordan | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet jordan | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet sneakers |
+| Gtbuy Spreadsheet spreadsheet shoes | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet spreadsheet best | sizing guide on Gtbuy Spreadsheet | Gtbuy Spreadsheet sneakers | Gtbuy Spreadsheet spreadsheet best | sizing guide on Gtbuy Spreadsheet |
+| Gtbuy Spreadsheet telegram | Gtbuy Spreadsheet reddit | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reddit | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet spreadsheet best |
+| Gtbuy Spreadsheet reddit | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet telegram | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet telegram | Gtbuy Spreadsheet spreadsheet best |
+| Gtbuy Spreadsheet alternative | Gtbuy Spreadsheet vs Gtbuy Spreadsheet | Gtbuy Spreadsheet vs oopbuy | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet vs Gtbuy Spreadsheet | Gtbuy Spreadsheet vs oopbuy | Gtbuy Spreadsheet spreadsheet best |
+| is Gtbuy Spreadsheet legit | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet qc photos | Gtbuy Spreadsheet reviews | Gtbuy Spreadsheet legit check | Gtbuy Spreadsheet qc photos |
+| best sellers on Gtbuy Spreadsheet | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet nike | Gtbuy Spreadsheet spreadsheet best | Gtbuy Spreadsheet budget picks | Gtbuy Spreadsheet nike |
 
 ---
 
@@ -105,14 +105,14 @@ title: Usfans Spreadsheet Internal Linking Rules
 ### Correct Format
 
 ```markdown
-For more details on specific brands, check out our [Usfans nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide or explore the [Usfans jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection.
+For more details on specific brands, check out our [Gtbuy nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide or explore the [Gtbuy jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection.
 
 ---
 
 **Related Guides:**
-- [Usfans Nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
-- [Usfans Jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
-- [Usfans Sizing Guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
+- [Gtbuy Nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
+- [Gtbuy Jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
+- [Gtbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"
 ```
 
 ### Incorrect Format
@@ -129,7 +129,7 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 
 —?Wrong file path format:
 ```markdown
-[Usfans Nike](/blog/usfans-nike)
+[Gtbuy Nike](/blog/usfans-nike)
 ```
 
 ---
@@ -138,18 +138,18 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 
 ### Correct Path Format
 - Use URL-encoded spaces: `-`
-- Include full filename with date: `Usfans-nike.md`
+- Include full filename with date: `Gtbuy-nike.md`
 - No leading slash (relative path)
 
 ### File Path Examples
 
 | Target Page | Correct Path |
 |-------------|--------------|
-| Usfans Spreadsheet nike | `Usfans-nike.md` |
-| Usfans Spreadsheet jordan | `Usfans-jordan.md` |
-| sizing guide on Usfans Spreadsheet | `Usfans-sizing-guide.md` |
-| Usfans Spreadsheet spreadsheet best | `Usfans-spreadsheet-best.md` |
-| Usfans Spreadsheet qc photos | `Usfans-qc-photos.md` |
+| Gtbuy Spreadsheet nike | `Gtbuy-nike.md` |
+| Gtbuy Spreadsheet jordan | `Gtbuy-jordan.md` |
+| sizing guide on Gtbuy Spreadsheet | `Gtbuy-sizing-guide.md` |
+| Gtbuy Spreadsheet spreadsheet best | `Gtbuy-spreadsheet-best.md` |
+| Gtbuy Spreadsheet qc photos | `Gtbuy-qc-photos.md` |
 
 ---
 
@@ -158,27 +158,27 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 ### Introduction Section
 - **Link count**: 0-1 link
 - **Purpose**: Set context, link to main category or brand page if relevant
-- **Example**: "Usfans Spreadsheet offers over 22,000 verified products, including an extensive [Usfans sneakers](/blog/usfans-sneakers/) collection..."
+- **Example**: "Gtbuy Spreadsheet offers over 22,000 verified products, including an extensive [Gtbuy sneakers](/blog/usfans-sneakers/) collection..."
 
 ### Main Section 1 (Core Topic)
 - **Link count**: 1-2 links
 - **Purpose**: Link to related category, brand, or feature pages
-- **Example**: "When shopping for [Usfans nike](/blog/usfans-nike/) products, you'll find..."
+- **Example**: "When shopping for [Gtbuy nike](/blog/usfans-nike/) products, you'll find..."
 
 ### Main Section 2 (Benefits/Features)
 - **Link count**: 1-2 links
 - **Purpose**: Link to complementary guides or related products
-- **Example**: "For proper fit, check our [Usfans sizing guide](/blog/usfans-sizing-guide/) before ordering..."
+- **Example**: "For proper fit, check our [Gtbuy sizing guide](/blog/usfans-sizing-guide/) before ordering..."
 
 ### Main Section 3 (How to Use)
 - **Link count**: 0-1 link
 - **Purpose**: Link to process-related guides (shipping, how to use)
-- **Example**: "After ordering, refer to our [Usfans shipping guide](/blog/usfans-shipping-guide/) for delivery timelines..."
+- **Example**: "After ordering, refer to our [Gtbuy shipping guide](/blog/usfans-shipping-guide/) for delivery timelines..."
 
 ### Product Highlights Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to brand or category page
-- **Example**: "Explore more [Usfans hoodies](/blog/usfans-hoodies/) in our collection..."
+- **Example**: "Explore more [Gtbuy hoodies](/blog/usfans-hoodies/) in our collection..."
 
 ### FAQ Section
 - **Link count**: 0 links
@@ -187,7 +187,7 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 ### Conclusion Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to spreadsheet or main guide
-- **Example**: "Browse the full [Usfans spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to discover..."
+- **Example**: "Browse the full [Gtbuy spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) to discover..."
 
 ### Related Guides Section
 - **Link count**: Exactly 3 links
@@ -199,38 +199,38 @@ For more details on specific brands, check out our [Usfans nike param($m); $path
 ## Linking Rules for Specific Scenarios
 
 ### Scenario 1: Category Page Linking to Brand Pages
-When writing a category page (e.g., Usfans Spreadsheet sneakers), link to relevant brand pages:
+When writing a category page (e.g., Gtbuy Spreadsheet sneakers), link to relevant brand pages:
 ```markdown
-Our [Usfans nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection features Air Max 95, Air Force 1, and more.
-For basketball-inspired styles, explore [Usfans jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
+Our [Gtbuy nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection features Air Max 95, Air Force 1, and more.
+For basketball-inspired styles, explore [Gtbuy jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ### Scenario 2: Brand Page Linking to Category Pages
-When writing a brand page (e.g., Usfans Spreadsheet nike), link to relevant category pages:
+When writing a brand page (e.g., Gtbuy Spreadsheet nike), link to relevant category pages:
 ```markdown
-Nike [Usfans sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  are our top sellers.
-You'll also find Nike [Usfans t-shirts param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  and [Usfans bags param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
+Nike [Gtbuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  are our top sellers.
+You'll also find Nike [Gtbuy t-shirts param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  and [Gtbuy bags param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ### Scenario 3: Feature Page Linking to Category/Brand Pages
-When writing a feature page (e.g., sizing guide on Usfans Spreadsheet), link to relevant product pages:
+When writing a feature page (e.g., sizing guide on Gtbuy Spreadsheet), link to relevant product pages:
 ```markdown
-Sizing varies by brand. For [Usfans sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" , we recommend going half a size up.
-Our [Usfans hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  typically run true to size.
+Sizing varies by brand. For [Gtbuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" , we recommend going half a size up.
+Our [Gtbuy hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  typically run true to size.
 ```
 
 ### Scenario 4: Comparison Page Linking
 When writing comparison pages, link to spreadsheet and review pages:
 ```markdown
-See why buyers prefer Usfans Spreadsheet in our [Usfans spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide.
-Read real user feedback in [Usfans reviews param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
+See why buyers prefer Gtbuy Spreadsheet in our [Gtbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide.
+Read real user feedback in [Gtbuy reviews param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ### Scenario 5: Long-tail Page Linking
 When writing long-tail pages, link to main category and spreadsheet pages:
 ```markdown
-Find Nike products in the [Usfans spreadsheet nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  section.
-Browse all [Usfans sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  or check the [Usfans spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
+Find Nike products in the [Gtbuy spreadsheet nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  section.
+Browse all [Gtbuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  or check the [Gtbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ---
@@ -268,8 +268,8 @@ Before finalizing each article, verify:
 ## Linking Matrix Visualization
 
 ```
-                    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                    —?  Usfans Spreadsheet Ö÷Ò³   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?            ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?    ©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?    —? Æ·ÀàÒ³Ãæ (7)  —?—?Æ·ÅÆÒ³Ãæ(7) —?—?¹¦ÄÜÒ³Ãæ (7)  —?    —? sneakers     ©¦?©À?—? nike      —?—? qc photos    —?    —? hoodies      ©¦?©À?—? jordan    —?—? shipping     —?    —? watches      ©¦?©À?—? adidas    —?—? sizing       —?    —? bags         ©¦?©À?—? chrome    —?—? reviews      —?    —? jeans        ©¦?©À?—? essentials—?—? legit check  —?    —? t-shirts     ©¦?©À?—? palm      —?—? coupon       —?    —? accessories  ©¦?©À?—? stussy    —?—? how to use   —?    ©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?            ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?                    ©°©¤©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤©¤—?                    —? Usfans Spreadsheet µç×Ó±í¸ñ —?                    —? (Íâ²¿Á´½ÓÖÕµã)   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?
-    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    —?¶Ô±ÈÒ³Ãæ (4)   ©¦©¤©¤©¤©¤?©¦  ³¡¾°Ò³Ãæ (4)  —?    —?vs Usfans Spreadsheet    —?    —? beginners    —?    —?vs oopbuy     —?    —? resellers    —?    —?vs litbuy     —?    —? budget       —?    —?vs usfans     —?    —? luxury       —?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?```
+                    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                    —?  Gtbuy Spreadsheet Ö÷Ò³   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?            ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?    ©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?    —? Æ·ÀàÒ³Ãæ (7)  —?—?Æ·ÅÆÒ³Ãæ(7) —?—?¹¦ÄÜÒ³Ãæ (7)  —?    —? sneakers     ©¦?©À?—? nike      —?—? qc photos    —?    —? hoodies      ©¦?©À?—? jordan    —?—? shipping     —?    —? watches      ©¦?©À?—? adidas    —?—? sizing       —?    —? bags         ©¦?©À?—? chrome    —?—? reviews      —?    —? jeans        ©¦?©À?—? essentials—?—? legit check  —?    —? t-shirts     ©¦?©À?—? palm      —?—? coupon       —?    —? accessories  ©¦?©À?—? stussy    —?—? how to use   —?    ©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?            ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?                    ©°©¤©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤©¤—?                    —? Gtbuy Spreadsheet µç×Ó±í¸ñ —?                    —? (Íâ²¿Á´½ÓÖÕµã)   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?
+    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    —?¶Ô±ÈÒ³Ãæ (4)   ©¦©¤©¤©¤©¤?©¦  ³¡¾°Ò³Ãæ (4)  —?    —?vs Gtbuy Spreadsheet    —?    —? beginners    —?    —?vs oopbuy     —?    —? resellers    —?    —?vs litbuy     —?    —? budget       —?    —?vs gtbuy     —?    —? luxury       —?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?```
 
 **Legend**:
 - `?©À?` = Bidirectional linking (pages link to each other)

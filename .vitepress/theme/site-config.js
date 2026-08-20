@@ -1,5 +1,5 @@
 // ============================================================
-// Usfans Spreadsheet Site Configuration
+// Gtbuy Spreadsheet Site Configuration
 // Usfanslinki.com - Fashion Finds Resource & Buying Guide
 // ============================================================
 
@@ -7,12 +7,12 @@ export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'Usfans Spreadsheet',
+    name: 'Gtbuy Spreadsheet',
     tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for Usfans Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
+    description: 'Independent resource for Gtbuy Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'Usfans Spreadsheet',
+    logoText: 'Gtbuy Spreadsheet',
   },
 
   // ---- Navigation ----
@@ -31,7 +31,7 @@ export const siteConfig = {
   categories: [
     {
       id: 'clothes',
-      name: 'USFans Clothing Spreadsheet',
+      name: 'Gtbuy Clothing Spreadsheet',
       icon: '',
       description: 'Hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides with direct article paths.',
       blogLink: '/blog/usfans-hoodies/',
@@ -39,7 +39,7 @@ export const siteConfig = {
     },
     {
       id: 'shoes',
-      name: 'USFans Shoes Spreadsheet',
+      name: 'Gtbuy Shoes Spreadsheet',
       icon: '',
       description: 'Sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots.',
       blogLink: '/blog/usfans-sneakers/',
@@ -47,7 +47,7 @@ export const siteConfig = {
     },
     {
       id: 'pants',
-      name: 'USFans Pants Spreadsheet',
+      name: 'Gtbuy Pants Spreadsheet',
       icon: '',
       description: 'Jeans, pants, shorts, sweatpants and tracksuits with fit and fabric reading paths.',
       blogLink: '/blog/usfans-pants/',
@@ -55,7 +55,7 @@ export const siteConfig = {
     },
     {
       id: 'hats',
-      name: 'USFans Hats Spreadsheet',
+      name: 'Gtbuy Hats Spreadsheet',
       icon: '',
       description: 'Hats, caps, beanies, bucket hats and fit guides for everyday finishing pieces.',
       blogLink: '/blog/usfans-hats/',
@@ -63,7 +63,7 @@ export const siteConfig = {
     },
     {
       id: 'accessories',
-      name: 'USFans Accessories Spreadsheet',
+      name: 'Gtbuy Accessories Spreadsheet',
       icon: '',
       description: 'Bags, belts, jewelry, sunglasses, watches and wallets with direct article paths.',
       blogLink: '/blog/usfans-accessories/',
@@ -71,7 +71,7 @@ export const siteConfig = {
     },
     {
       id: 'electronics',
-      name: 'USFans Electronics Spreadsheet',
+      name: 'Gtbuy Electronics Spreadsheet',
       icon: '',
       description: 'Electronics, phones, iPhone resources, AirPods and tech gadget guides.',
       blogLink: '/blog/usfans-electronics/',
@@ -104,9 +104,9 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://usfanslinki.com',
-    title: 'USFans Spreadsheet 2026 - USFans Finds, Category Guides and Product Research',
-    description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct spreadsheet access.',
-    keywords: ['usfans spreadsheet 2026', 'usfans spreadsheet', 'usfans finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
+    title: 'Gtbuy Spreadsheet 2026 - Gtbuy Finds, Category Guides and Product Research',
+    description: 'Explore Gtbuy Spreadsheet 2026 through organized Gtbuy finds, category overviews, focused guides and direct spreadsheet access.',
+    keywords: ['gtbuy spreadsheet 2026', 'gtbuy spreadsheet', 'gtbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
     ga4: 'G-9WJTE8DY0P',
   },
 

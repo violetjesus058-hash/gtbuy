@@ -8,6 +8,16 @@ keywords: 'gtbuy spreadsheet, gtbuy spreadsheet 2026'
 
 > **Official platform context:** Gtbuy official product pages describe proxy purchasing, seller-to-warehouse and warehouse-to-address stages, with QC photos, storage and customer-support entry points. Products come from third-party sellers, so stock, warehouse arrival and logistics status should be checked on the live page. This article is an editorial guide based on publicly visible platform information and community search intent; it is not an authenticity guarantee, investment advice, or a promise of stock, price, shipping time, or seller performance.
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## In This Article
 
 
@@ -27,15 +37,7 @@ What sets the Gtbuy Spreadsheet Google Docs integration apart is the combination
 
 The documentation system has evolved to include standardized templates, collaborative editing, and linked references that connect documents to specific spreadsheet entries. This integration ensures that research materials remain current and relevant, with automatic updates when spreadsheet data changes. For buyers seeking comprehensive research materials, the [Gtbuy spreadsheet best](/blog/usfans-spreadsheet-best/) documentation provides detailed analysis of top-performing sellers and products.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Creating Research Documents with Google Docs
 
@@ -63,7 +65,7 @@ Purchase recommendation documents should synthesize all research findings into c
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

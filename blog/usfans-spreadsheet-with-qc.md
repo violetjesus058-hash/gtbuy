@@ -8,6 +8,16 @@ keywords: 'gtbuy spreadsheet, gtbuy spreadsheet 2026, gtbuy spreadsheet quality 
 
 > **Official platform context:** Gtbuy official product pages describe proxy purchasing, seller-to-warehouse and warehouse-to-address stages, with QC photos, storage and customer-support entry points. Products come from third-party sellers, so stock, warehouse arrival and logistics status should be checked on the live page. This article is an editorial guide based on publicly visible platform information and community search intent; it is not an authenticity guarantee, investment advice, or a promise of stock, price, shipping time, or seller performance.
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## In This Article
 
 
@@ -27,15 +37,7 @@ The evolution of QC documentation has been remarkable. Early replica market tran
 
 For buyers new to using QC photos for purchase decisions, the Gtbuy Spreadsheet with QC documentation serves as both a product database and an educational resource. The [Gtbuy spreadsheet best](/blog/usfans-spreadsheet-best/) quality products include particularly detailed QC photos that demonstrate what premium quality looks like across different product categories. Learning to interpret these photos is a valuable skill that improves purchasing outcomes across all future transactions.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Comprehensive QC Photo Standards
 
@@ -63,7 +65,7 @@ For bags and accessories, verification checkpoints include material quality, har
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

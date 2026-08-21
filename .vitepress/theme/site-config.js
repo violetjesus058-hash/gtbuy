@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Gtbuy Spreadsheet 2026 - Gtbuy Finds, Category Guides and Product Research',
     description: 'Explore Gtbuy Spreadsheet 2026 through organized Gtbuy finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['gtbuy spreadsheet 2026', 'gtbuy spreadsheet', 'gtbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-NVB7GG74JX',
   },
 
   // ---- Announcement Bar ----
